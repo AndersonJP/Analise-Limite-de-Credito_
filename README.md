@@ -33,14 +33,13 @@ Projeto de análise de dados com limites cartão de crédito e entender fatores 
 
 ## Estrutura do repositório
 
+```
 Analise-Limite-de-Credito/
 ├── README.md
 ├── base de dados/
 │   └── credito.csv
 ├── sql/
 │   ├── credito analisado.xlsx     -> arquivo com as análises que fiz catalogadas em abas
-
-
 ```
 
 **Autor:** Anderson Joel Portes
